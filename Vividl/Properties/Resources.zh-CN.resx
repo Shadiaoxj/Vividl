@@ -118,40 +118,40 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="Cancel" xml:space="preserve">
-		<value>キャンセル</value>
+		<value>取消</value>
 	</data>
 	<data name="DownloadOption_AVI" xml:space="preserve">
-		<value>AVI に変換</value>
+		<value>转换为avi</value>
 	</data>
 	<data name="DownloadOption_Best" xml:space="preserve">
 		<value>最良を直接ダウンロード</value>
 	</data>
 	<data name="DownloadOption_M4A" xml:space="preserve">
-		<value>M4A に変換</value>
+		<value>转换为m4a</value>
 	</data>
 	<data name="DownloadOption_MKV" xml:space="preserve">
-		<value>MKV に結合</value>
+		<value>转换为mkv</value>
 	</data>
 	<data name="DownloadOption_MP3" xml:space="preserve">
-		<value>MP3 に変換</value>
+		<value>转换为mp3</value>
 	</data>
 	<data name="DownloadOption_MP4" xml:space="preserve">
-		<value>MP4 に変換</value>
+		<value>转换为mp4</value>
 	</data>
 	<data name="DownloadOption_Vorbis" xml:space="preserve">
 		<value>Ogg Vorbis に変換</value>
 	</data>
 	<data name="DownloadOption_WAV" xml:space="preserve">
-		<value>WAV に変換</value>
+		<value>转换为wav</value>
 	</data>
 	<data name="Error" xml:space="preserve">
-		<value>エラー</value>
+		<value>出错了</value>
 	</data>
 	<data name="FetchWindow_EnterUrls" xml:space="preserve">
 		<value>動画のURLを1行ごとに入力</value>
 	</data>
 	<data name="Info" xml:space="preserve">
-		<value>情報</value>
+		<value>消息</value>
 	</data>
 	<data name="MainWindow_AlreadyFetched" xml:space="preserve">
 		<value>この動画は既にダウンロード一覧に登録済みです。
@@ -188,55 +188,55 @@
 		<value>すべての動画をダウンロード(_D)</value>
 	</data>
 	<data name="MainWindow_MenuExit" xml:space="preserve">
-		<value>終了(_E)</value>
+		<value>退出</value>
 	</data>
 	<data name="MainWindow_MenuExport" xml:space="preserve">
-		<value>動画のリンクをエクスポート(_E)</value>
+		<value>导出为</value>
 	</data>
 	<data name="MainWindow_MenuImport" xml:space="preserve">
-		<value>動画のリンクをインポート(_I)</value>
+		<value>导入</value>
 	</data>
 	<data name="MainWindow_MenuPaste" xml:space="preserve">
 		<value>動画のリンクを貼り付け(_P)</value>
 	</data>
 	<data name="MainWindow_MenuSelectFolder" xml:space="preserve">
-		<value>ダウンロード先のフォルダー変更(_F)...</value>
+		<value>选择下载文件夹...</value>
 	</data>
 	<data name="MainWindow_MenuSettings" xml:space="preserve">
-		<value>設定(_S)</value>
+		<value>设置</value>
 	</data>
 	<data name="MainWindow_OpenFolder" xml:space="preserve">
-		<value>開く</value>
+		<value>打开</value>
 	</data>
 	<data name="MainWindow_StatusFailed" xml:space="preserve">
-		<value>失敗:</value>
+		<value>失败:</value>
 	</data>
 	<data name="MainWindow_StatusInProcess" xml:space="preserve">
-		<value>進行中:</value>
+		<value>正在进行中:</value>
 	</data>
 	<data name="MainWindow_StatusSucceeded" xml:space="preserve">
 		<value>成功:</value>
 	</data>
 	<data name="MetadataWindow_Creator" xml:space="preserve">
-		<value>作成者:</value>
+		<value>创作者:</value>
 	</data>
 	<data name="MetadataWindow_Description" xml:space="preserve">
-		<value>説明</value>
+		<value>说明</value>
 	</data>
 	<data name="MetadataWindow_Duration" xml:space="preserve">
 		<value>再生時間:</value>
 	</data>
 	<data name="MetadataWindow_Link" xml:space="preserve">
-		<value>リンク</value>
+		<value>链接</value>
 	</data>
 	<data name="MetadataWindow_UploadDate" xml:space="preserve">
-		<value>アップロード日:</value>
+		<value>上传日期:</value>
 	</data>
 	<data name="MetadataWindow_Uploader" xml:space="preserve">
-		<value>アップロード者:</value>
+		<value>上传人:</value>
 	</data>
 	<data name="MetadataWindow_Views" xml:space="preserve">
-		<value>再生回数:</value>
+		<value>播放次数:</value>
 	</data>
 	<data name="SelectDirectory_Description" xml:space="preserve">
 		<value>ダウンロードした動画が保存されるフォルダを選択:</value>
@@ -245,7 +245,7 @@
 		<value>重複した動画の登録を許可</value>
 	</data>
 	<data name="PathSelectionControl_Change" xml:space="preserve">
-		<value>変更</value>
+		<value>更改</value>
 	</data>
 	<data name="SettingsWindow_DefaultFormat" xml:space="preserve">
 		<value>既定のダウンロード形式:</value>
@@ -263,7 +263,7 @@
 		<value>ファイル名</value>
 	</data>
 	<data name="SettingsWindow_General" xml:space="preserve">
-		<value>一般</value>
+		<value>常规设置</value>
 	</data>
 	<data name="SettingsWindow_MaxProcesses" xml:space="preserve">
 		<value>最大同時ダウンロード数</value>
@@ -278,7 +278,7 @@
 		<value>すべての利用可能な形式を表示</value>
 	</data>
 	<data name="SettingsWindow_Title" xml:space="preserve">
-		<value>設定</value>
+		<value>设置</value>
 	</data>
 	<data name="SettingsWindow_VideoList" xml:space="preserve">
 		<value>ダウンロード一覧</value>
@@ -287,52 +287,52 @@
 		<value>OK</value>
 	</data>
 	<data name="VideoEntry_Converting" xml:space="preserve">
-		<value>変換中...</value>
+		<value>转换中...</value>
 	</data>
 	<data name="VideoEntry_CopyUrl" xml:space="preserve">
-		<value>動画のURLをコピー</value>
+		<value>复制视频地址</value>
 	</data>
 	<data name="VideoEntry_Download" xml:space="preserve">
-		<value>ダウンロード</value>
+		<value>下载视频</value>
 	</data>
 	<data name="VideoEntry_Downloading" xml:space="preserve">
-		<value>ダウンロード中...</value>
+		<value>正在下载视频...</value>
 	</data>
 	<data name="VideoEntry_Finished" xml:space="preserve">
-		<value>完了.</value>
+		<value>已完成</value>
 	</data>
 	<data name="VideoEntry_Play" xml:space="preserve">
-		<value>再生</value>
+		<value>播放视频</value>
 	</data>
 	<data name="VideoEntry_Playlist" xml:space="preserve">
-		<value>再生リスト - {0}本の動画</value>
+		<value>视频播放列表</value>
 	</data>
 	<data name="VideoEntry_PreProcessing" xml:space="preserve">
-		<value>準備中...</value>
+		<value>准备中...</value>
 	</data>
 	<data name="VideoEntry_Remove" xml:space="preserve">
-		<value>動画の除去</value>
+		<value>删除视频</value>
 	</data>
 	<data name="VideoEntry_ShowInFolder" xml:space="preserve">
-		<value>フォルダーを開く</value>
+		<value>在文件夹中显示</value>
 	</data>
 	<data name="VideoEntry_ShowInformation" xml:space="preserve">
 		<value>情報を表示</value>
 	</data>
 	<data name="Video_DownloadCancelled" xml:space="preserve">
-		<value>キャンセル "{0}".</value>
+		<value>已取消下载"{0}".</value>
 	</data>
 	<data name="Video_DownloadFinished" xml:space="preserve">
-		<value>完了 "{0}".</value>
+		<value>下载完毕 "{0}".</value>
 	</data>
 	<data name="MainWindow_MenuAbout" xml:space="preserve">
-		<value>情報(_A)</value>
+		<value>关于</value>
 	</data>
 	<data name="SettingsWindow_Binaries" xml:space="preserve">
-		<value>アプリケーション</value>
+		<value>应用</value>
 	</data>
 	<data name="SettingsWindow_CheckForUpdates" xml:space="preserve">
-		<value>更新確認</value>
+		<value>检查更新</value>
 	</data>
 	<data name="SettingsWindow_Ffmpeg" xml:space="preserve">
 		<value>ffmpeg</value>
@@ -341,13 +341,13 @@
 		<value>パソコン内での実行ファイルの場所</value>
 	</data>
 	<data name="SettingsWindow_Version" xml:space="preserve">
-		<value>バージョン:</value>
+		<value>当前版本:</value>
 	</data>
 	<data name="SettingsWindow_YoutubeDL" xml:space="preserve">
 		<value>youtube-dl/ yt-dlp</value>
 	</data>
 	<data name="SettingsWindow_CheckingForUpdates" xml:space="preserve">
-		<value>更新を確認中...</value>
+		<value>正在检查更新...</value>
 	</data>
 	<data name="MainWindow_FetchFailed_General" xml:space="preserve">
 		<value>このURLが有効か確認してください。</value>
@@ -362,19 +362,19 @@
 		<value>再生リストのURLをコピー</value>
 	</data>
 	<data name="MetadataWindow_Details" xml:space="preserve">
-		<value>詳細</value>
+		<value>详情信息</value>
 	</data>
 	<data name="SettingsWindow_Appearance" xml:space="preserve">
-		<value>外観</value>
+		<value>外观</value>
 	</data>
 	<data name="SettingsWindow_Theme" xml:space="preserve">
-		<value>アプリのテーマ:</value>
+		<value>主题:</value>
 	</data>
 	<data name="MainWindow_ListEmpty" xml:space="preserve">
 		<value>貼り付け、インポート、URLのドラッグ&amp;ドロップで新しい動画を追加。</value>
 	</data>
 	<data name="DownloadOption_Webm" xml:space="preserve">
-		<value>WebM に変換</value>
+		<value>转换为webm</value>
 	</data>
 	<data name="SettingsWindow_PreferRecoding" xml:space="preserve">
 		<value>最良の品質でダウンロードして変換</value>
@@ -584,7 +584,7 @@
 		<value>Intel (QSV)</value>
 	</data>
 	<data name="Reset" xml:space="preserve">
-		<value>初期化</value>
+		<value>重置设置</value>
 	</data>
 	<data name="SettingsWindow_ToolTipReset" xml:space="preserve">
 		<value>すべての設定を初期値に戻します。</value>
